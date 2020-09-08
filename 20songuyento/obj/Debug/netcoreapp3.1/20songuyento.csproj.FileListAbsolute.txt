@@ -1,0 +1,12 @@
+C:\Users\ronng\source\repos\20songuyento\20songuyento\bin\Debug\netcoreapp3.1\20songuyento.exe
+C:\Users\ronng\source\repos\20songuyento\20songuyento\bin\Debug\netcoreapp3.1\20songuyento.deps.json
+C:\Users\ronng\source\repos\20songuyento\20songuyento\bin\Debug\netcoreapp3.1\20songuyento.runtimeconfig.json
+C:\Users\ronng\source\repos\20songuyento\20songuyento\bin\Debug\netcoreapp3.1\20songuyento.runtimeconfig.dev.json
+C:\Users\ronng\source\repos\20songuyento\20songuyento\bin\Debug\netcoreapp3.1\20songuyento.dll
+C:\Users\ronng\source\repos\20songuyento\20songuyento\bin\Debug\netcoreapp3.1\20songuyento.pdb
+C:\Users\ronng\source\repos\20songuyento\20songuyento\obj\Debug\netcoreapp3.1\20songuyento.AssemblyInfoInputs.cache
+C:\Users\ronng\source\repos\20songuyento\20songuyento\obj\Debug\netcoreapp3.1\20songuyento.AssemblyInfo.cs
+C:\Users\ronng\source\repos\20songuyento\20songuyento\obj\Debug\netcoreapp3.1\20songuyento.csproj.CoreCompileInputs.cache
+C:\Users\ronng\source\repos\20songuyento\20songuyento\obj\Debug\netcoreapp3.1\20songuyento.dll
+C:\Users\ronng\source\repos\20songuyento\20songuyento\obj\Debug\netcoreapp3.1\20songuyento.pdb
+C:\Users\ronng\source\repos\20songuyento\20songuyento\obj\Debug\netcoreapp3.1\20songuyento.genruntimeconfig.cache
