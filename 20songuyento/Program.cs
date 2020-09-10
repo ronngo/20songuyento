@@ -1,12 +1,10 @@
 ﻿using System;
-
-namespace _20songuyento
+using System.Text;
+namespace _20songuyentodautien
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("20 so nguyen to dau tien la:");
+        public static void snt20(){
             int index = 0;
             for (int i = 2; i < 200; i++)
             {
@@ -28,6 +26,16 @@ namespace _20songuyento
                     }
                 }
             }
+          
+
+        }
+        static void Main(string[] args)
+        {
+         
+        Console.OutputEncoding = Encoding.UTF8;
+        Console.WriteLine("20 số nguyên tố đầu tiên là:");
+        snt20();
+
         }
     }
 }
